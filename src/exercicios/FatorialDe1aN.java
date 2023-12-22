@@ -1,10 +1,10 @@
 package exercicios;
 
 /**
- *  Imprima	os	fatoriais	de	1	a	10.
+ *  Imprima	os	fatoriais	de	1	a	n.
  */
 
-public class FatorialDe1a10 {
+public class FatorialDe1aN {
     public static void main(String[] args) {
 
         int entrada = 20;
