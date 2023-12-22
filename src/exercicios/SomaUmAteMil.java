@@ -8,7 +8,6 @@ public class SomaUmAteMil {
 
         for(int i = 1; i < somaLimite; i++){
             soma = soma + i;
-
         }
         System.out.println(soma);
     }
