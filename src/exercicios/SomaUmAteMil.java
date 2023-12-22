@@ -1,5 +1,9 @@
 package exercicios;
 
+/**
+ *  Imprima	a	soma	de	1	até	1000.
+ */
+
 public class SomaUmAteMil {
     public static void main(String[] args) {
 

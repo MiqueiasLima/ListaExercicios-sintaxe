@@ -1,5 +1,9 @@
 package exercicios;
 
+/**
+ *  Imprima	os	fatoriais	de	1	a	10.
+ */
+
 public class FatorialDe1a10 {
     public static void main(String[] args) {
 
