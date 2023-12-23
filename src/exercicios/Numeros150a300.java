@@ -14,6 +14,5 @@ public class Numeros150a300 {
             System.out.println(numInicial);
         }
         System.out.println(numInicial);
-
     }
 }
