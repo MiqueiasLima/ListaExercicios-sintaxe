@@ -7,7 +7,6 @@ public class FatorialRecursivo {
     }
 
     public static void main(String[] args) {
-
         long res = calculaFatorialRecursivo(6);
         System.out.println(res);
     }
