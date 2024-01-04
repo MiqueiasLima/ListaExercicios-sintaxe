@@ -10,11 +10,12 @@ import java.util.Scanner;
 public class Q9 {
     public static void main(String[] args) {
 
-        System.out.println("Digite a velocidade em Km/h: ");
         Scanner scanner = new Scanner(System.in);
-        float numKlmH = scanner.nextFloat();
-        float velMetrosPSeg = numKlmH/3.60f;
 
+        System.out.println("Digite a velocidade em Km/h: ");
+        float numKlmH = scanner.nextFloat();
+
+        float velMetrosPSeg = numKlmH/3.60f;
 
         System.out.println("A velocidade de "+numKlmH+ " km/h convertida é de: "+velMetrosPSeg+" m/s");
     }
